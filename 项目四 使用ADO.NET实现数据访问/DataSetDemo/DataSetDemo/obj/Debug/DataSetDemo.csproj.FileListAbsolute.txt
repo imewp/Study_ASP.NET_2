@@ -4,9 +4,9 @@ C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\bin\DataSetDemo.dll
 C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\bin\DataSetDemo.pdb
 C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.dll
 C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.pdb
-D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csprojResolveAssemblyReference.cache
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.dll
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\bin\DataSetDemo.dll.config
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\bin\DataSetDemo.dll
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\bin\DataSetDemo.pdb
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csprojResolveAssemblyReference.cache
