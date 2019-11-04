@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\bin\WebProject1.dll.config
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\bin\WebProject1.dll
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\bin\WebProject1.pdb
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\obj\Debug\WebProject1.dll
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\obj\Debug\WebProject1.pdb
+C:\Users\Administrator\Desktop\WebProject1\WebProject1\obj\Debug\WebProject1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\bin\NavigationSiteDemo.dll.config
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\bin\NavigationSiteDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\bin\NavigationSiteDemo.pdb
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\obj\Debug\NavigationSiteDemo.csprojAssemblyReference.cache
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\obj\Debug\NavigationSiteDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\NavigationSiteDemo\NavigationSiteDemo\obj\Debug\NavigationSiteDemo.pdb

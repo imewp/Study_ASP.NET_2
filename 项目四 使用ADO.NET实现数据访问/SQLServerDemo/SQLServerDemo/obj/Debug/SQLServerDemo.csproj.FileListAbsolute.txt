@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll.config
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.csprojResolveAssemblyReference.cache
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll.config
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.pdb
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.csprojAssemblyReference.cache
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll.config
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\bin\SQLServerDemo.pdb
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.dll
+C:\Users\Administrator\Desktop\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\SQLServerDemo\SQLServerDemo\obj\Debug\SQLServerDemo.pdb

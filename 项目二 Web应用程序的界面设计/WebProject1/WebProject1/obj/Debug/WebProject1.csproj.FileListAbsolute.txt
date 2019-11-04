@@ -1,0 +1,6 @@
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\bin\WebProject1.dll.config
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\bin\WebProject1.dll
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\bin\WebProject1.pdb
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\obj\Debug\WebProject1.csprojAssemblyReference.cache
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\obj\Debug\WebProject1.dll
+C:\Users\王鹏\Desktop\ASP.NET\asp.net\WebProject1\WebProject1\obj\Debug\WebProject1.pdb

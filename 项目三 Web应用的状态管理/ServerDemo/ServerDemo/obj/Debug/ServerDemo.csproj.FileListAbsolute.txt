@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\bin\ServerDemo.dll.config
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\bin\ServerDemo.dll
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\bin\ServerDemo.pdb
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\obj\Debug\ServerDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\obj\Debug\ServerDemo.dll
+C:\Users\Administrator\Desktop\ServerDemo\ServerDemo\obj\Debug\ServerDemo.pdb

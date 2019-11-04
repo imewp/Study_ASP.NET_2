@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\bin\RequestDemo.dll.config
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\bin\RequestDemo.dll
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\bin\RequestDemo.pdb
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\obj\Debug\RequestDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\obj\Debug\RequestDemo.dll
+C:\Users\Administrator\Desktop\RequestDemo\RequestDemo\obj\Debug\RequestDemo.pdb

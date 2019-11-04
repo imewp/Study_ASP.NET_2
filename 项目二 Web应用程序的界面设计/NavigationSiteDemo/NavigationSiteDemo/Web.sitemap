@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="返回首页"  description="首页">
+    <siteMapNode url="~/Products.aspx" title="我们的产品"  description="产品">
+      <siteMapNode title="硬件产品" description="硬件" url="~/Hardware.aspx"/>
+      <siteMapNode title="软件产品" description="软件" url="~/Software.aspx"/>
+    </siteMapNode>
+    <siteMapNode url="~/Services.aspx" title="我们的服务"  description="服务" >
+      <siteMapNode title="培训服务" description="培训" url="~/Training.aspx"/>
+      <siteMapNode title="咨询服务" description="咨询" url="~/Consulting.aspx"/>
+      <siteMapNode title="技术支持" description="技术" url="~/Support.aspx"/>
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\bin\UserRegDemo.dll.config
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\bin\UserRegDemo.dll
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\bin\UserRegDemo.pdb
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\obj\Debug\UserRegDemo.dll
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\obj\Debug\UserRegDemo.pdb
+C:\Users\Administrator\Desktop\UserRegDemo\UserRegDemo\obj\Debug\UserRegDemo.csprojResolveAssemblyReference.cache

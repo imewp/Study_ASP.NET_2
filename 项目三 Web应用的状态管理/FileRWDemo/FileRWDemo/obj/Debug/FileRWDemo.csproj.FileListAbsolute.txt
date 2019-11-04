@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\FileRWDemo\FileRWDemo\bin\FileRWDemo.dll.config
+C:\Users\Administrator\Desktop\FileRWDemo\FileRWDemo\bin\FileRWDemo.dll
+C:\Users\Administrator\Desktop\FileRWDemo\FileRWDemo\bin\FileRWDemo.pdb
+C:\Users\Administrator\Desktop\FileRWDemo\FileRWDemo\obj\Debug\FileRWDemo.dll
+C:\Users\Administrator\Desktop\FileRWDemo\FileRWDemo\obj\Debug\FileRWDemo.pdb

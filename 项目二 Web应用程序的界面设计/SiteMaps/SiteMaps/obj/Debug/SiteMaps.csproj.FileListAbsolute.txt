@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\bin\SiteMaps.dll.config
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\bin\SiteMaps.dll
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\bin\SiteMaps.pdb
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\obj\Debug\SiteMaps.dll
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\obj\Debug\SiteMaps.pdb
+C:\Users\Administrator\Desktop\SiteMaps\SiteMaps\obj\Debug\SiteMaps.csprojResolveAssemblyReference.cache

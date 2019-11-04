@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\OnlineChatRoom\OnlineChatRoom\bin\OnlineChatRoom.dll.config
+C:\Users\Administrator\Desktop\OnlineChatRoom\OnlineChatRoom\bin\OnlineChatRoom.dll
+C:\Users\Administrator\Desktop\OnlineChatRoom\OnlineChatRoom\bin\OnlineChatRoom.pdb
+C:\Users\Administrator\Desktop\OnlineChatRoom\OnlineChatRoom\obj\Debug\OnlineChatRoom.dll
+C:\Users\Administrator\Desktop\OnlineChatRoom\OnlineChatRoom\obj\Debug\OnlineChatRoom.pdb

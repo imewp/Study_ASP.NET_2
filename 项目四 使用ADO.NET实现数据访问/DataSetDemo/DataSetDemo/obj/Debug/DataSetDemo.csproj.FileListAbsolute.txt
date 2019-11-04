@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\bin\DataSetDemo.dll.config
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\bin\DataSetDemo.dll
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\bin\DataSetDemo.pdb
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.dll
+C:\Users\Administrator\Desktop\DataSetDemo\DataSetDemo\obj\Debug\DataSetDemo.pdb

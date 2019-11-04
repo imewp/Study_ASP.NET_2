@@ -1,0 +1,79 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body {
+    font:62.5%/1.6 宋体,Arial,Helvetica,sans-serif;
+    background-color:#D4D4D4;
+    text-align:center;
+    min-width:760px;
+}
+p,li{
+    font-size:1.4em;
+}
+#branding{
+    height:150px;
+    background-color:orange;
+    padding:20px;
+    margin:auto;
+}
+#branding h1{
+    margin:0;
+    color:#ffffff;
+    font-family:楷体, Arial, Helvetica, sans-serif;
+}
+#mainNav{
+    list-style:none;
+}
+#secondaryContent h2{
+    font-size:1.6em;
+    margin:0;
+}
+#secondaryContent p{
+    font-size:1.2em;
+}
+#footer{
+    background-color:#438bf9;
+    padding:1px 20px;
+}
+#wrapper{
+    width:85%;
+    margin:0 auto;
+    text-align:left;
+    background:#fff;
+}
+#mainNav{
+    width:23%;
+    float:left;
+}
+#content{
+    width:75%;
+    float:right;
+}
+#mainContent{
+    width:66%;
+    margin:0;
+    float:left;
+}
+#secondaryContent{
+    width:31%;
+    min-width:10em;
+    display:inline;
+    float:right;
+}
+#footer{
+    clear:both;
+}
+#mainNav,#secondaryContent{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#mainNav *, #secondaryContent *{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#mainNav * *, #secondaryContent * * {
+    padding-left: 0;
+    padding-right: 0;
+}
+

@@ -1,0 +1,5 @@
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.dll.config
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.pdb
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.pdb

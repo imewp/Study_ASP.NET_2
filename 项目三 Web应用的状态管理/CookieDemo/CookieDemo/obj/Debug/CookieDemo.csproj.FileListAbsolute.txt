@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\CookieDemo\CookieDemo\bin\CookieDemo.dll.config
+C:\Users\Administrator\Desktop\CookieDemo\CookieDemo\bin\CookieDemo.dll
+C:\Users\Administrator\Desktop\CookieDemo\CookieDemo\bin\CookieDemo.pdb
+C:\Users\Administrator\Desktop\CookieDemo\CookieDemo\obj\Debug\CookieDemo.dll
+C:\Users\Administrator\Desktop\CookieDemo\CookieDemo\obj\Debug\CookieDemo.pdb
