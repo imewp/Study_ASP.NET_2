@@ -15,7 +15,29 @@ namespace DataSetDemo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //创建DataTable对象
+            DataTable dt = new DataTable("Test");
 
+            //为DataTable添加列
+            DataColumn myCol1 = new DataColumn("id", typeof(int));
+            DataColumn myCol2 = new DataColumn("name", typeof(string));
+            dt.Columns.Add(myCol1);
+            dt.Columns.Add(myCol2);
+
+            //为DataTable添加行数据
+            DataRow myRow = dt.NewRow();
+            myRow["id"] = 1;
+            myRow["name"] = "ASP.NET";
+            dt.Rows.Add(myRow);
+
+            DataRow newRow = dt.NewRow();
+            newRow["id"] = 2;
+            newRow["name"] = "SQL Server";
+            dt.Rows.Add(newRow);
+
+            //遍历DataTable中的行数据
+            foreach (DataRow dr in dt.Rows)
+                Response.Write("No" + dr["id"] + "  " + dr["name"] + "<br/>");
         }
 
         protected void btnView_Click(object sender, EventArgs e)

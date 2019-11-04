@@ -10,6 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
+        <br/><br/><br/>
         查看商品信息表中的数据<hr />
         <asp:Label ID="lblView" runat="server" Text=""></asp:Label><br/>
         <asp:Button ID="btnView" runat="server" Text="查看" OnClick="btnView_Click" />

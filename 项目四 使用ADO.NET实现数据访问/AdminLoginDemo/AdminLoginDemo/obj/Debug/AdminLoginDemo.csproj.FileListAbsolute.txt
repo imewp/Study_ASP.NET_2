@@ -3,3 +3,9 @@ C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数�
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.pdb
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.dll
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\bin\AdminLoginDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.csprojResolveAssemblyReference.cache
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\AdminLoginDemo\AdminLoginDemo\obj\Debug\AdminLoginDemo.pdb
