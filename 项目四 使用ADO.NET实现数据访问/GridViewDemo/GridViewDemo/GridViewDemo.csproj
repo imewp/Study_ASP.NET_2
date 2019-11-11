@@ -7,12 +7,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{003DAC02-5922-4E0B-9FE5-4015D8ADFCB0}</ProjectGuid>
+    <ProjectGuid>{B6997CC0-00A8-4420-B73F-4A8982E71FD9}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataSetDemo</RootNamespace>
-    <AssemblyName>DataSetDemo</AssemblyName>
+    <RootNamespace>GridViewDemo</RootNamespace>
+    <AssemblyName>GridViewDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -65,50 +65,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="4_10.aspx" />
-    <Content Include="4_6.aspx" />
-    <Content Include="4_7.aspx" />
-    <Content Include="4_8.aspx" />
-    <Content Include="4_9.aspx" />
-    <Content Include="Web.config">
-      <SubType>Designer</SubType>
-    </Content>
+    <Content Include="4_11.aspx" />
+    <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="4_10.aspx.cs">
-      <DependentUpon>4_10.aspx</DependentUpon>
+    <Compile Include="4_11.aspx.cs">
+      <DependentUpon>4_11.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="4_10.aspx.designer.cs">
-      <DependentUpon>4_10.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="4_6.aspx.cs">
-      <DependentUpon>4_6.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="4_6.aspx.designer.cs">
-      <DependentUpon>4_6.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="4_7.aspx.cs">
-      <DependentUpon>4_7.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="4_7.aspx.designer.cs">
-      <DependentUpon>4_7.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="4_8.aspx.cs">
-      <DependentUpon>4_8.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="4_8.aspx.designer.cs">
-      <DependentUpon>4_8.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="4_9.aspx.cs">
-      <DependentUpon>4_9.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="4_9.aspx.designer.cs">
-      <DependentUpon>4_9.aspx</DependentUpon>
+    <Compile Include="4_11.aspx.designer.cs">
+      <DependentUpon>4_11.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -125,9 +91,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>2389</DevelopmentServerPort>
+          <DevelopmentServerPort>5776</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:2389/</IISUrl>
+          <IISUrl>http://localhost:5776/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
