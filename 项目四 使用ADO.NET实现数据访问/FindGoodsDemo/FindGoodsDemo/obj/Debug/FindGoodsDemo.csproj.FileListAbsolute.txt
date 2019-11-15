@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\bin\FindGoodsDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\bin\FindGoodsDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\bin\FindGoodsDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\obj\Debug\FindGoodsDemo.csprojResolveAssemblyReference.cache
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\obj\Debug\FindGoodsDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\FindGoodsDemo\FindGoodsDemo\obj\Debug\FindGoodsDemo.pdb

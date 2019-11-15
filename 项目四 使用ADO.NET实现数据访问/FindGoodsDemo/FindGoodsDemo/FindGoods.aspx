@@ -75,7 +75,7 @@
                 <tr>
                     <td align="center"></td>
                     <td><asp:Button ID="btnFind" runat="server" Text="搜索 " OnClick="btnFind_Click" />
-                    &nbsp;<asp:LinkButton ID="lbtnClear" runat="server">清空查询条件</asp:LinkButton></td>
+                    &nbsp;<asp:LinkButton ID="lbtnClear" runat="server" OnClick="lbtnClear_Click">清空查询条件</asp:LinkButton></td>
                 </tr>
             </table>
         </div><br />

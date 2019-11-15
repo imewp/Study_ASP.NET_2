@@ -56,5 +56,16 @@ namespace FindGoodsDemo
             sqlGoods.SelectCommand = sqlstr;
             grdGoods.DataSourceID = "sqlGoods";
         }
+
+        protected void lbtnClear_Click(object sender, EventArgs e)
+        {
+            txtGName.Text = "";
+            ddlGType.SelectedIndex = 0;
+            txtPriceLow.Text = "";
+            txtPriceHigh.Text = "";
+            rdltSaleQty.SelectedIndex = 0;
+            grdGoods.DataSourceID = "sqlGoods";
+
+        }
     }
 }
