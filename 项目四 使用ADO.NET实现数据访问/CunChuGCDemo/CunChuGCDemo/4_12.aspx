@@ -11,9 +11,9 @@
     <form id="form1" runat="server">
     <div>
         使用存储过程，添加商品类别<hr/>
-        类别名称：<asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><asp:Button ID="Button1" runat="server" Text="Button" />
+        类别名称：<asp:TextBox ID="txtName" runat="server"></asp:TextBox><asp:Button ID="btnAddType" runat="server" Text="添加" OnClick="btnAddType_Click1" />
         <br />
-        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:Label ID="Label1" runat="server"></asp:Label>
     </div>
     </form>
 </body>

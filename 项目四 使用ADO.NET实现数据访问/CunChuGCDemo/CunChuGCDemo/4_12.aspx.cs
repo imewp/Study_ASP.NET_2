@@ -18,7 +18,7 @@ namespace CunChuGCDemo
 
         }
 
-        protected void btnAddType_Click(object sender, EventArgs e)
+        protected void btnAddType_Click1(object sender, EventArgs e)
         {
             string str = ConfigurationManager.ConnectionStrings["smdb"].ConnectionString;
             using (SqlConnection conn = new SqlConnection(str))
@@ -26,7 +26,7 @@ namespace CunChuGCDemo
                 conn.Open();
                 SqlCommand cmd = new SqlCommand("upAddGoodsType", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
-                SqlParameter[] ps = { new SqlParameter("@name", txtName.Text),
+                SqlParameter[] ps = { new SqlParameter("@tname", txtName.Text),
                                     new SqlParameter("@flag",SqlDbType.Int)};
                 ps[1].Direction = ParameterDirection.ReturnValue;
                 cmd.Parameters.AddRange(ps);
