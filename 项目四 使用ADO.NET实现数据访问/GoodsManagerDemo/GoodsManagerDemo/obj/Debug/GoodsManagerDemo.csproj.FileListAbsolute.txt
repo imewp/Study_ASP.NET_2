@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\bin\GoodsManagerDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\bin\GoodsManagerDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\bin\GoodsManagerDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\obj\Debug\GoodsManagerDemo.csprojResolveAssemblyReference.cache
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\obj\Debug\GoodsManagerDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\GoodsManagerDemo\GoodsManagerDemo\obj\Debug\GoodsManagerDemo.pdb
