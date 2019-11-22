@@ -1,11 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="4_14.aspx.cs" Inherits="DataListDemo._4_14" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="4_15.aspx.cs" Inherits="DataListDemo._4_15" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>DataList控件中显示数据</title>
+    <title>DataList控件分页实现</title>
     <style type="text/css">
         body{
             font-size:0.8em;
@@ -76,6 +76,10 @@
                     </table>
                 </ItemTemplate>
             </asp:DataList>
+            <asp:Label ID="lblCurPage" runat="server" Text=""></asp:Label>
+            <asp:Label ID="lblTotalPage" runat="server" Text="Label"></asp:Label>
+            <asp:LinkButton ID="lbtnPre" runat="server" CommandName="Pre" OnCommand="LinkBtnClick">上一页</asp:LinkButton>
+            <asp:LinkButton ID="lbtnNext" runat="server" CommandName="Next" OnCommand="LinkBtnClick">下一页</asp:LinkButton>
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:smdb %>" SelectCommand="SELECT * FROM [Goods]"></asp:SqlDataSource>
         </div>
     </form>

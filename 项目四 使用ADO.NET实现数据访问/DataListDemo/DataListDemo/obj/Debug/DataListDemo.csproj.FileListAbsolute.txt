@@ -3,3 +3,8 @@ C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.pdb
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.dll
 C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.pdb
