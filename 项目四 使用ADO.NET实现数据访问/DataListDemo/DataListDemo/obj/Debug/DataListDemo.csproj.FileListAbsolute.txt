@@ -1,0 +1,5 @@
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.dll.config
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\bin\DataListDemo.pdb
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.dll
+C:\Users\王鹏\Desktop\ASP.NET\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\DataListDemo\DataListDemo\obj\Debug\DataListDemo.pdb
