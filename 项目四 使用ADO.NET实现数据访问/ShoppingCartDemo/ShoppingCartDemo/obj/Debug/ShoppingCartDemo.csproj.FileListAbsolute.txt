@@ -1,6 +1,5 @@
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\bin\ShoppingCartDemo.dll.config
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\bin\ShoppingCartDemo.dll
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\bin\ShoppingCartDemo.pdb
-D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\obj\Debug\ShoppingCartDemo.csprojResolveAssemblyReference.cache
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\obj\Debug\ShoppingCartDemo.dll
 D:\17王鹏\Study_ASP.NET_2\项目四 使用ADO.NET实现数据访问\ShoppingCartDemo\ShoppingCartDemo\obj\Debug\ShoppingCartDemo.pdb

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GoodsList.aspx.cs" Inherits="ShoppingCartDemo.GoodsList" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GoodsList.aspx.cs" Inherits="ShoppingCartDemo.GoodsList" Theme="default" %>
 
 <!DOCTYPE html>
 
@@ -15,7 +15,7 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;<a href="ShoppingCar.aspx">购物车</a><hr/>
         </div>
         <div>
-            <asp:DataList ID="dlstGoods" runat="server" RepeatColumns="3" DataKeyField="gdID" DataSourceID="SqlDataSource1">
+            <asp:DataList ID="dlstGoods" runat="server" RepeatColumns="3" DataKeyField="gdID" DataSourceID="SqlDataSource1" OnItemCommand="dlstGoods_ItemCommand">
                 <ItemTemplate>
                     <table class="tb">
                         <tr>
@@ -49,7 +49,7 @@
                         </tr>
                         <tr>
                            <td colspan="2">
-                               <asp:ImageButton ID="AddShop" runat="server" CommandName="addShop" />
+                               <asp:ImageButton ID="AddShop" runat="server" CommandName="addShop" ImageUrl="images/icon/addCar.jpg" ToolTip="添加到购物车" OnClientClick="return confirm('确定要将商品添加到购物车？')"/>
                             </td>
                         </tr>
                     </table>
