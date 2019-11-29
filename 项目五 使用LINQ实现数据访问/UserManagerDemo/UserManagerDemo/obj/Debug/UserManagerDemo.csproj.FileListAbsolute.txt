@@ -1,0 +1,5 @@
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\UserManagerDemo\UserManagerDemo\bin\UserManagerDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\UserManagerDemo\UserManagerDemo\bin\UserManagerDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\UserManagerDemo\UserManagerDemo\bin\UserManagerDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\UserManagerDemo\UserManagerDemo\obj\Debug\UserManagerDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\UserManagerDemo\UserManagerDemo\obj\Debug\UserManagerDemo.pdb
