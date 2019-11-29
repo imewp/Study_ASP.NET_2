@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ShoppingCar.aspx.cs" Inherits="ShoppingCartDemo.ShoppingCar" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="ShoppingCar.aspx.cs" Inherits="ShoppingCartDemo.ShoppingCar" Theme="default" %>
 
 <!DOCTYPE html>
 
@@ -101,6 +101,7 @@
             </SelectParameters>
             <UpdateParameters>
                 <asp:Parameter Name="scNum" Type="Int32" />
+                <asp:Parameter Name="sciID" Type="Int32" />
             </UpdateParameters>
         </asp:SqlDataSource>
     </div>

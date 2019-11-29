@@ -33,7 +33,7 @@ namespace ShoppingCartDemo
                 if (!string.IsNullOrEmpty(strSum))
                     sum += Convert.ToDouble(strSum);
             }
-            else if(e.Row.RowType==DataControlRowType.Footer)
+            else if (e.Row.RowType == DataControlRowType.Footer)
             {
                 e.Row.Cells[5].Text = string.Format("{0:C}", sum);
                 ((LinkButton)e.Row.FindControl("lbtnClear")).Attributes.Add("onClick", "javascript:return confirm('确定清空购物车？')");
@@ -56,6 +56,29 @@ namespace ShoppingCartDemo
         }
         protected void lbtnSelectAll_Click(object sender, EventArgs e)
         {
+            //LinkButton lb = (LinkButton)sender;
+            //foreach(GridViewRow gvr in grdGoods.Rows)
+            //{
+            //    if (gvr.RowType == DataControlRowType.DataRow)
+            //    {
+            //        CheckBox cb = (CheckBox)gvr.FindControl("chkSelect");
+            //        if (lb.Text.Equals("全选"))
+            //        {
+            //            cb.Checked = true;
+            //        }
+                        
+            //        else
+            //        {
+            //            cb.Checked = false;
+            //        }    
+            //    }
+            //    if (lb.Text.Equals("全选"))
+            //        lb.Text = "取消全选";
+            //    else
+            //        lb.Text = "全选"; 
+            //}
+
+
             LinkButton lbtn = (LinkButton)grdGoods.FooterRow.FindControl("lbtnSelectAll");
             if (lbtn.Text.Equals("全选"))
             {

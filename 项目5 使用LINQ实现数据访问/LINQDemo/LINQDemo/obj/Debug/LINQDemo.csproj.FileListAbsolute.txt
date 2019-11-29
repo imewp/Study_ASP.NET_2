@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\bin\LINQDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\bin\LINQDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\bin\LINQDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\obj\Debug\LINQDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\obj\Debug\LINQDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目5 使用LINQ实现数据访问\LINQDemo\LINQDemo\obj\Debug\LINQDemo.csprojResolveAssemblyReference.cache
