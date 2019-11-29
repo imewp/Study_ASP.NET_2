@@ -1,0 +1,15 @@
+﻿body {
+    
+}
+#div1{
+    text-align:center;
+}
+.tb_content td{
+    height:35px;
+    padding:0px;
+    border-bottom-style:dashed;
+    border-bottom-width:1px;
+}
+.nobordertb td{
+    border:0;
+}
