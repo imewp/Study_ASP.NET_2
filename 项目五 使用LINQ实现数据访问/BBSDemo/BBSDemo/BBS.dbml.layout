@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BBS">
+  <DataContextMoniker Name="/BBSDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5e787f28-b1c8-4b6a-a617-89c8ce6d342f" absoluteBounds="0.875, 2.375, 2, 3.0997033691406251">
+      <DataClassMoniker Name="/BBSDataContext/Users" />
+      <nestedChildShapes>
+        <elementListCompartment Id="554c1017-e8ad-47e1-af4c-0a5162347c2f" absoluteBounds="0.89000000000000012, 2.835, 1.9700000000000002, 2.539703369140625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ee705ced-a060-42a8-8733-2fb6fc6c4fdf" absoluteBounds="4.625, 1.75, 2, 1.7625655110677081">
+      <DataClassMoniker Name="/BBSDataContext/BBSNote" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9c48748c-78e8-46bb-839a-1826666ba4ac" absoluteBounds="4.64, 2.21, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="517a91d7-f91c-4bbe-a5da-a0ef1066e517" absoluteBounds="4.5, 4.25, 2, 1.7625655110677081">
+      <DataClassMoniker Name="/BBSDataContext/BBSAnswer" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a7549d2-0fdf-4e88-a665-72a009572c9e" absoluteBounds="4.5150000000000006, 4.71, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.875 : 2.94378275553385); (4.625 : 2.94378275553385)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BBSDataContext/Users/Users_BBSNote" />
+      <nodes>
+        <classShapeMoniker Id="5e787f28-b1c8-4b6a-a617-89c8ce6d342f" />
+        <classShapeMoniker Id="ee705ced-a060-42a8-8733-2fb6fc6c4fdf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.875 : 4.9685439046224); (4.5 : 4.9685439046224)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BBSDataContext/Users/Users_BBSAnswer" />
+      <nodes>
+        <classShapeMoniker Id="5e787f28-b1c8-4b6a-a617-89c8ce6d342f" />
+        <classShapeMoniker Id="517a91d7-f91c-4bbe-a5da-a0ef1066e517" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5625 : 3.51256551106771); (5.5625 : 4.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BBSDataContext/BBSNote/BBSNote_BBSAnswer" />
+      <nodes>
+        <classShapeMoniker Id="ee705ced-a060-42a8-8733-2fb6fc6c4fdf" />
+        <classShapeMoniker Id="517a91d7-f91c-4bbe-a5da-a0ef1066e517" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,5 @@
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\BBSDemo\BBSDemo\bin\BBSDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\BBSDemo\BBSDemo\bin\BBSDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\BBSDemo\BBSDemo\bin\BBSDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\BBSDemo\BBSDemo\obj\Debug\BBSDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\BBSDemo\BBSDemo\obj\Debug\BBSDemo.pdb

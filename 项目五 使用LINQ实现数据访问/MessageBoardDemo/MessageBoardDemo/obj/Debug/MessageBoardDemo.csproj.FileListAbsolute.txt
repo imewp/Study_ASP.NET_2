@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\bin\MessageBoardDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\bin\MessageBoardDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\bin\MessageBoardDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\obj\Debug\MessageBoardDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\obj\Debug\MessageBoardDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目五 使用LINQ实现数据访问\MessageBoardDemo\MessageBoardDemo\obj\Debug\MessageBoardDemo.csprojResolveAssemblyReference.cache
