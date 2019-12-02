@@ -32,21 +32,21 @@
                 </table>
             </ItemTemplate>
         </asp:Repeater>
-        <asp:Repeater ID="repBBSAnswer" runat="server">
+        <asp:Repeater ID="repBBSAnswer" runat="server" DataSourceID="linqAnswer">
              <ItemTemplate>
                 <table class="ba_table">
                     <tr>
                         <td>
                             <div class="ba_title">
                                 <asp:Label ID="lbluName" style="font-weight:700"  runat="server" Text='<%#Eval("Users.uName") %>'> </asp:Label>
-                                 &nbsp;于<asp:Label ID="timeLabel" runat="server" Text='<%#Eval("bnAddTime") %>'></asp:Label>
+                                 &nbsp;于<asp:Label ID="timeLabel" runat="server" Text='<%#Eval("baAddTime") %>'></asp:Label>
                                  &nbsp;进行回复
                             </div>
                         </td>
                     </tr>
                       <tr>
                         <td><div class="ba_content">
-                            <asp:Label ID="contentLabel" runat="server" Text='<%# Eval("bnContent") %>' />
+                            <asp:Label ID="contentLabel" runat="server" Text='<%# Eval("baContent") %>' />
                         </td>
                     </tr>
                 </table>
@@ -54,10 +54,13 @@
         </asp:Repeater>
         <asp:LinqDataSource ID="linqAnswer" runat="server" ContextTypeName="BBSDemo.BBSDataContext" TableName="BBSAnswer" EntityTypeName="" Where="bnID == @bnID">
             <WhereParameters>
-                <asp:QueryStringParameter Name="bnID" QueryStringField="bnID" Type="Int32" />
+                <asp:QueryStringParameter Name="bnID" QueryStringField="id" Type="Int32" />
             </WhereParameters>
         </asp:LinqDataSource>
-        <asp:LinqDataSource ID="linqNote" runat="server" ContextTypeName="BBSDemo.BBSDataContext" TableName="BBSNote" EntityTypeName="">
+        <asp:LinqDataSource ID="linqNote" runat="server" ContextTypeName="BBSDemo.BBSDataContext" TableName="BBSNote" EntityTypeName="" Where="bnID == @bnID">
+            <WhereParameters>
+                <asp:QueryStringParameter Name="bnID" QueryStringField="id" Type="Int32" />
+            </WhereParameters>
          </asp:LinqDataSource> 
          <div style="text-align:left; margin-top:10px;padding:10px;">
              <asp:Button ID="btnSave" runat="server" Text="回复主题" OnClick="btnSave_Click" /><br /><br />
