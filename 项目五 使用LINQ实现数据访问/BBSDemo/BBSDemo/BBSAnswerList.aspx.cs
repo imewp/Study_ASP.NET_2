@@ -27,7 +27,7 @@ namespace BBSDemo
             ba.baAddTime = System.DateTime.Now;
             lq.BBSAnswer.InsertOnSubmit(ba);
             lq.SubmitChanges();
-            Response.Redirect("BBSAnswerList.aspx");
+            Response.Redirect("BBSAnswerList.aspx?id=" + Request["id"]);
         }
     }
 }
