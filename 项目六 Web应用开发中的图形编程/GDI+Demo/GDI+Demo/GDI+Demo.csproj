@@ -69,6 +69,7 @@
     <Content Include="6_2.aspx" />
     <Content Include="6_3.aspx" />
     <Content Include="6_4.aspx" />
+    <Content Include="6_5.aspx" />
     <Content Include="Images\1.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -100,6 +101,13 @@
     </Compile>
     <Compile Include="6_4.aspx.designer.cs">
       <DependentUpon>6_4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="6_5.aspx.cs">
+      <DependentUpon>6_5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="6_5.aspx.designer.cs">
+      <DependentUpon>6_5.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
