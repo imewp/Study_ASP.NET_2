@@ -20,9 +20,9 @@ namespace GDI_Demo
             Brush brush = new SolidBrush(Color.Blue);
             gr.DrawString("ASP.NET 程序设计", font, brush, 100, 20);
             gr.DrawLine(pen, 0, 50, 400, 50);
-            gr.FillRectangle(brush, 70, 70, 150, 100);
+            gr.FillRectangle(brush, 70, 70, 150, 100);          //填充矩形
             brush = new SolidBrush(Color.YellowGreen);
-            gr.FillEllipse(brush, 70, 70, 150, 100);
+            gr.FillEllipse(brush, 70, 70, 150, 100);            //填充椭圆
             brush = new SolidBrush(Color.Pink);
             Point[] pts = new Point[]{
                 new Point(300,100),
@@ -32,7 +32,7 @@ namespace GDI_Demo
                 new Point(240,120),
                 new Point(270,100),
             };
-            gr.FillPolygon(brush, pts);
+            gr.FillPolygon(brush, pts);             //填充多边形
             myImage.Save(Response.OutputStream, System.Drawing.Imaging.ImageFormat.Gif);
             pen.Dispose();              //释放画笔对象
             gr.Dispose();               //释放绘画对象
