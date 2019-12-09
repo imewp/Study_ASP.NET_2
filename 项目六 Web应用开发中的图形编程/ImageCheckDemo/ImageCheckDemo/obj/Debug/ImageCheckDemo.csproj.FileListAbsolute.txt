@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\bin\ImageCheckDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\bin\ImageCheckDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\bin\ImageCheckDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\obj\Debug\ImageCheckDemo.csprojResolveAssemblyReference.cache
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\obj\Debug\ImageCheckDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目六 Web应用开发中的图形编程\ImageCheckDemo\ImageCheckDemo\obj\Debug\ImageCheckDemo.pdb
