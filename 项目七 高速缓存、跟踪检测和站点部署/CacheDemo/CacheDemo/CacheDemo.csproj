@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="7_1.aspx" />
+    <Content Include="7_2.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebUserControl.ascx" />
   </ItemGroup>
@@ -76,6 +77,13 @@
     </Compile>
     <Compile Include="7_1.aspx.designer.cs">
       <DependentUpon>7_1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="7_2.aspx.cs">
+      <DependentUpon>7_2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="7_2.aspx.designer.cs">
+      <DependentUpon>7_2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WebUserControl.ascx.cs">
