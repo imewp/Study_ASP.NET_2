@@ -1,0 +1,6 @@
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\bin\jQueryDemo.dll.config
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\bin\jQueryDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\bin\jQueryDemo.pdb
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.csprojResolveAssemblyReference.cache
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.dll
+D:\17王鹏\Study_ASP.NET_2\项目八 jQuery实现网页特效\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.pdb
