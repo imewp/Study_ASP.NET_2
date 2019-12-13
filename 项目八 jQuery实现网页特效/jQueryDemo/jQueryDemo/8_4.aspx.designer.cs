@@ -10,7 +10,7 @@
 namespace jQueryDemo {
     
     
-    public partial class _8_3 {
+    public partial class _8_4 {
         
         /// <summary>
         /// form1 控件。
